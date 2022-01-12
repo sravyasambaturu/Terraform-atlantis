@@ -1,3 +1,5 @@
+Terraform Infra as code for GCP Compute Engine.
+
 terraform init This command sets up the environment.
 
 terraform plan This command reports configuration will be applied.
